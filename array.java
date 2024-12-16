@@ -1,5 +1,5 @@
 package sample;
-//Modified to commit
+//Modified to  see the diff command
 public class array {
 
 	public static void main(String[] args) {
