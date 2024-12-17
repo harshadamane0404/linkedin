@@ -2,7 +2,7 @@ package sample;
 //made this chnage from main brach
 public class employeetest{
 
-	int empsalary;
+	int empsalaryFromMain;
 	String empname;
 	
 	public employee(int empsalary, String empname)
