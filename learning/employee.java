@@ -1,7 +1,8 @@
 package sample;
-//made this chnage from main brach
-public class employeetest{
 
+public class employeetest{
+//--------------------------------
+//-------------------------------  feat_scedulted 
 	int empsalaryFromMain;
 	String empname;
 	
