@@ -1,10 +1,8 @@
 package sample;
-public class employee {
-=======
 //made this chnage from main brach
-public class employeefromFeat_scheduled {
-//this is in feat_scheduled brancb
-	int empsalary;
+public class employeetest{
+
+	int empsalaryFromMain;
 	String empname;
 	
 	public employee(int empsalary, String empname)
