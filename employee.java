@@ -1,9 +1,9 @@
 package sample;
-public class employee {
-=======
 //made this chnage from main brach
-public class employeefromFeat_scheduled {
-//this is in feat_scheduled brancb
+public class employee {
+
+
+//I am in feat_scheduled branch
 	int empsalary;
 	String empname;
 	
