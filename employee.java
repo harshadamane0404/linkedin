@@ -1,6 +1,6 @@
 package sample;
 
-public class employee {
+public class employee_In_feat_scheduled {
 
 	int empsalary;
 	String empname;
