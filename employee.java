@@ -2,14 +2,8 @@ package sample;
 //made this chnage from main brach
 public class employee {
 
-
-<<<<<<< HEAD
-//I am in feat_scheduled branch
-=======
-//I am in feat_scehduled branch
->>>>>>> main
-	int empsalary;
-	String empname;
+	int empsalarytest;
+	String empnametest;
 	
 	public employee(int empsalary, String empname)
 	{
