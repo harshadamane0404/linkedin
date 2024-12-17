@@ -3,6 +3,9 @@ package sample;
 =======
 //made this chnage from main brach------------------------------- main
 public class employee{
+<<<<<<< HEAD
+>>>>>>> main
+=======
 >>>>>>> main
 
 public class employeetest{

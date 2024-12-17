@@ -1,13 +1,7 @@
 package sample;
 //made this chnage from main brach
 public class employee {
-
-
-<<<<<<< HEAD
-//I am in feat_scheduled branch
-=======
-//I am in feat_scehduled branch
->>>>>>> main
+//I am in main branch
 	int empsalary;
 	String empname;
 	
