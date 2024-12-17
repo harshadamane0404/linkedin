@@ -4,8 +4,8 @@ public class employee {
 
 
 //I am in feat_scehduled branch
-	int empsalary;
-	String empname;
+	int empsalary1234;
+	String empname1234;
 	
 	public employee(int empsalary, String empname)
 	{
