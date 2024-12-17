@@ -2,7 +2,7 @@ package sample;
 <<<<<<< HEAD
 =======
 //made this chnage from main brach------------------------------- main
-public class employeetest{
+public class employee{
 >>>>>>> main
 
 public class employeetest{
