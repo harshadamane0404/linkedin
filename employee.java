@@ -1,6 +1,6 @@
 package sample;
 //made this chnage from main brach
-public class employeefromFeat_scheduled {
+public class employee {
 
 	int empsalary;
 	String empname;

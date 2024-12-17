@@ -1,6 +1,6 @@
 package sample;
 //made this chnage from main brach------------------------------- main
-public class employeetest{
+public class employee{
 
 	int empsalaryFromMain;
 	String empname;
