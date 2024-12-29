@@ -1,0 +1,26 @@
+pipeline {
+    agent any
+
+    stages {
+        stage('Unit test') {
+            steps {
+                echo 'Using Testng'
+            }
+        }
+        stage('Static Analysys') {
+            steps {
+                echo 'Using sonar build'
+            }
+        }
+         stage('Generate build') {
+            steps {
+                echo 'Using smaven'
+            }
+        }
+         stage('Execute regression tests') {
+            steps {
+                echo 'Using selenium, rest assured'
+            }
+        }
+    }
+}
